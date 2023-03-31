@@ -2,6 +2,7 @@ from tkinter import *
 from quiz_brain import QuizBrain
 
 THEME_COLOR = "#375362"
+
 class QuizInterface:
     """
     This class represents the UI. It is to help compartmentalize the code.
